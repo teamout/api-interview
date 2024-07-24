@@ -35,7 +35,7 @@ We would like you to build a small web application to gather these information a
 
 ### ToDo
 
-- A event landing page with a form to gather information about the attendees (example: name, email, attending YES / NO, dietary restrictions, check-in ,check-out, flight detail Arrival, flight detail Departure)
+- A event landing page with a form to gather information about the attendees (example: name, email, attending YES / NO, dietary restrictions, check-in ,check-out, flight detail Arrival, flight detail Departure, RSVP date)
 - An admin page to display the results in a table
 
 The guidelines are very broad on purpose so you can be creative about styling, architechture etc.
